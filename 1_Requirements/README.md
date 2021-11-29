@@ -20,38 +20,38 @@ Depending upon the project how well it is built and all the requirements will me
 4. Division
 
 # SWOT Analysis
-# Strengths
+## Strengths
 1. Cost Advantage.
 2. It can perform all arithmetic calculation.
 
-# Weakness
+## Weakness
 1. Competition.
 
-# Opportunities
+## Opportunities
 1. Advanced Tech Capabilities.
 2. No Creative Limits.
 
-# Threats
+## Threats
 1. Advanced featured calculators are already in the market.
 2. Decreasing Market Demand
 
 # 4W's and 1 H's
-# Why:
+## Why:
 1. To reduce the complexity of calculations.
 2. It can be used by anyone at any place.
 
-# Where:
+## Where:
 1. This can be used in our daily lives.
 2. We can use it in the banking system for calculation.
 
-# Who:
+## Who:
 1. Can be used as a reference for advanced calculators.
 
-# When:
+## When:
 1. One can calculate from anywhere.
 2. The project can be used when the calculations are required and the result will be obtained fastly.
 
-# How:
+## How:
 1. By giving different inputs one can find their desired output.
 2. It will be helpful in performing various calculations. This will give accurate results.
 
