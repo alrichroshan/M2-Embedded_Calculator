@@ -1,7 +1,7 @@
 # Requirements
 
 # Introduction
-A Calculator is a device which can perform some mathematical operations. In this project we are going to implement some calculator operations on ATmega328p using LCD and Keypad.
+A Calculator is a device which can perform some mathematical operations. In this project, a calculator on ATmega328p using LCD and Keypad is developed which will perform calculations depending on the input from the user.
 
 # Components Used
 1. ATmega328p microcontroller.
