@@ -1,6 +1,10 @@
 # M2-Embedded_Calculator
 In this project, a calculator on ATmega328p using LCD and Keypad is developed which will perform calculations depending on the input from the user.
 
+| Build | Cppcheck | Codacy |
+|---|---|---|
+|   |   |   |
+
 # Folder Structure
 | Folder | Description |
 |---|---|
