@@ -13,4 +13,4 @@
 | LLTP_1 | Performing Arthmetic operation '+' | (600, 100) | 700 | 700 | Requirement Based |
 | LLTP_2 | Performing Arthmetic operation '-' | (800, 100) | 700 | 700 | Requirement Based |
 | LLTP_3 | Performing Arthmetic operation '*' | (10, 7) | 70 | 70 | Requirement Based |
-| LLTP_4 | Performing Arthmetic operation '/' | (7, 10) | 0.7 | 0.7 | Requirement Based |
+| LLTP_4 | Performing Arthmetic operation '/' | (10, 2) | 5 | 5 | Requirement Based |
