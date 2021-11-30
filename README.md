@@ -3,7 +3,7 @@ In this project, a calculator on ATmega328p using LCD and Keypad is developed wh
 
 | Build | Cppcheck | Codacy |
 |---|---|---|
-|   |   |   |
+| [![Build](https://github.com/alrichroshan/M2-Embedded_Calculator/actions/workflows/compile.yml/badge.svg)](https://github.com/alrichroshan/M2-Embedded_Calculator/actions/workflows/compile.yml) | [![Cppcheck](https://github.com/alrichroshan/M2-Embedded_Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/alrichroshan/M2-Embedded_Calculator/actions/workflows/cppcheck.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9c25add500a749ae9dd623c148047bc8)](https://www.codacy.com/gh/alrichroshan/M2-Embedded_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alrichroshan/M2-Embedded_Calculator&amp;utm_campaign=Badge_Grade) |
 
 # Folder Structure
 | Folder | Description |
