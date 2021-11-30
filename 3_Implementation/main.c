@@ -14,7 +14,6 @@ void reset_display(){
 }
 int main(){
   uint8_t key_press;
-  uint16_t *input;
   uint16_t result;
 
   lcd_init();

@@ -14,6 +14,7 @@
 #include <stdint.h>
 #include <avr/io.h>
 #include <util/delay.h>
+#include <stdlib.h>
 
 uint16_t input[20];
 uint8_t str_num[20];
