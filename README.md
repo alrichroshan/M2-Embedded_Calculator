@@ -16,6 +16,13 @@ In this project, a calculator on ATmega328p using LCD and Keypad is developed wh
 | `6_Images` | All the images of this project |
 
 # Contributors List and Summary
-| PS No. | Name | Issues Raised | Issues Resolved |
-|---|---|---|---|
-| `40020515` | Alrich Roshan S J | 2 | 2 | 
+| PS No. | Name | Features | Issuess Raised | Issuess Resolved | No Test Cases | Test Case Pass |
+|---|---|---|---|---|---|---|
+| `40020515` | Alrich Roshan S J | F1, F2, F3, F4 | 2 | 2 | 7 | 7 |
+
+| No | Feature |
+|---|---|
+| F1 | Addition |
+| F2 | Subtraction |
+| F3 | Multiplication |
+| F4 | Division |
