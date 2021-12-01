@@ -16,5 +16,5 @@ The calculator is implemented in Embedded C program and the working is demonstra
 # Multiplication
 ![Multiplication](https://github.com/alrichroshan/M2-Embedded_Calculator/blob/main/6_Images/Multiplication.png)
 
-# Multiplication
+# Division
 ![Division](https://github.com/alrichroshan/M2-Embedded_Calculator/blob/main/6_Images/Division.png)
